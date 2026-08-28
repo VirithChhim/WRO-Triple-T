@@ -160,6 +160,17 @@ Full reproduction is not yet possible from this GitHub repository because the so
 
 The complete read-only technical inspection, including wiring diagrams, state diagrams, exact thresholds, file inventory, risk analysis, and rubric gap assessment, is available in [docs/WRO_ROBOT_AUDIT.md](docs/WRO_ROBOT_AUDIT.md).
 
+## Engineering journal PDF
+
+The evidence-based project report is available as [Triple_T_Engineering_Journal.pdf](docs/Triple_T_Engineering_Journal.pdf). Its editable source is [ENGINEERING_JOURNAL.md](docs/ENGINEERING_JOURNAL.md).
+
+To regenerate the PDF:
+
+```bash
+python3 -m pip install -r requirements-docs.txt
+python3 scripts/build_report.py
+```
+
 ## Vehicle photographs
 
 ### Side view 1
