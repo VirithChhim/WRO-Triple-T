@@ -62,6 +62,30 @@ The parking strategy has not yet been implemented.
 
 The Raspberry Pi 5 cannot be powered directly from the 12 V battery. A suitable regulated supply and a complete power-distribution design are still required.
 
+## Vehicle photographs
+
+### Side view 1
+
+![Vehicle side view 1](media/vehicle-side-view-1.jpg)
+
+### Front view
+
+![Vehicle front view](media/vehicle-front-view.jpg)
+
+### Rear and electronics view
+
+![Vehicle rear and electronics view](media/vehicle-rear-view.jpg)
+
+### Top view
+
+![Vehicle top view](media/vehicle-top-view.jpg)
+
+### Side view 2
+
+![Vehicle side view 2](media/vehicle-side-view-2.jpg)
+
+A bottom-view photograph is still required to complete the WRO vehicle photo set.
+
 ## Documentation status
 
 The engineering documentation is currently in progress. Technical details, source code, diagrams, photographs, CAD files, test results, and autonomous-driving videos will be added as they become available.
