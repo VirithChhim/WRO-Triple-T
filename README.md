@@ -14,6 +14,10 @@ This repository documents Team Triple T's entry for the WRO Future Engineers 202
 
 - Lean Ratana
 
+### Team photo
+
+![Team Triple T](media/team-triple-t.jpg)
+
 ## Competition
 
 - **Category:** WRO Future Engineers
