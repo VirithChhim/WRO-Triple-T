@@ -4,13 +4,21 @@ This repository documents Team Triple T's entry for the WRO Future Engineers 202
 
 ## Team
 
+### Members
+
 - Tuy Caroline
 - Thavrak Bunn Raksa
 - Lim Anita
 
+### Coach
+
+- Lean Ratana
+
 ## Competition
 
 - **Category:** WRO Future Engineers
+- **Country:** Cambodia
+- **Organizer:** STEM Cambodia
 - **Competition date:** September 5, 2026
 - **Documentation deadline:** August 28, 2026
 
